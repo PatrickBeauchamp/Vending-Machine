@@ -1,0 +1,6 @@
+A::Wasabi Oreos                          ::0.50::0
+B::Yogurt and Mint Doritos               ::0.50::9991
+C::Hairnets                              ::0.25::9952
+D::Haggis and Cracked Pepper Potato Chips::0.75::9993
+E::Used Socks                            ::1.00::9991
+F::Clamato Tortilla Chips                ::0.75::49

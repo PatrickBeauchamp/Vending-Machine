@@ -1,0 +1,23 @@
+2018-09-10T12:20:07.117 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:21:34.449 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:45:31.538 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:48:54.815 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:51:52.054 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:52:43.054 : 
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T12:57:57.244 : class com.sg.vendingmachine.service.VendingMachineNotEnoughMoneyException
+Error: Yogurt and Mint Doritos cost $0.50 and you only have $0.10
+2018-09-10T13:01:49.345 : class com.sg.vendingmachine.service.VendingMachineNotEnoughMoneyException
+2018-09-10T13:02:58.755 : class com.sg.vendingmachine.service.VendingMachineNotEnoughMoneyException
+Error: Haggis and Cracked Pepper Potato Chips cost $0.75 and you only have $0.05
+2018-09-12T10:49:28.027 : class com.sg.vendingmachine.service.VendingMachineNoMerchInventoryException
+Error: Wasabi Oreos are Out of Stock.
+2018-09-12T10:50:26.085 : class com.sg.vendingmachine.service.VendingMachineNoSuchMerchException
+Error: No such product.
+2018-09-28T14:03:06.377 : class com.sg.vendingmachine.service.VendingMachineNoMerchInventoryException
+Error: Wasabi Oreos are Out of Stock.
